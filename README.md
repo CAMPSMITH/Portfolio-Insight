@@ -28,7 +28,9 @@ The following are required to use this analytical notebook
 For instructions on how to install these and how to run Jupyter Lab, please refer to *Installation Guide* found at [Cryptage](https://github.com/CAMPSMITH/cryptage.git)
 
 ### Running the Cryptage Notebook
+
 Once Jupyter Lab has started in your browser, select the **crypto_arbitrage.ipynb** notebook from the **Left Sidebar**.
+
 ![launch Notebook risk_return_analysis.ipynb](images/start_notebook.png)
 ---
 
